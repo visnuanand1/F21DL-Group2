@@ -1,0 +1,6 @@
+.DS_Store
+
+# coursework report is shared privately, not via the repo
+F21DL_Group2_Report.*
+build_report.py
+report_content.py
